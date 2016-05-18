@@ -1,0 +1,15 @@
+{
+  "name": "sympbot",
+  "version": "1.0.0",
+  "description": "BotBuilder Fork for Symplicity Hackathon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sympbot",
+    "botbuilder"
+  ],
+  "author": "bsun",
+  "license": "MIT"
+}
